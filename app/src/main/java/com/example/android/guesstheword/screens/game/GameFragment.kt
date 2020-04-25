@@ -27,7 +27,7 @@ import com.example.android.guesstheword.databinding.GameFragmentBinding
 
 /**
  * Fragment where the game is played
- *
+ * Création de la branche: 5.1ViewModel-ViewModelFactory
  */
 class GameFragment : Fragment() {
 
